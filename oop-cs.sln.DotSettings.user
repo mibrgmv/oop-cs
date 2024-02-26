@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=288b25a3_002D5f5b_002D4a8e_002Dbb14_002D427bb5e54503/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DeflectorTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FD48C7A6-586C-4B4A-BC72-225A229E20DB::net8.0::Lab1.Tests.DeflectorTests.DeflectorTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FD48C7A6-586C-4B4A-BC72-225A229E20DB::net8.0::Lab1.Tests.RouteServiceTests.RouteServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2B986CAF-B8BD-4AAC-93C8-285EF81C1F76::net8.0::Lab2.Tests.PersonalComputerTests.PersonalComputerValidatorTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2B986CAF-B8BD-4AAC-93C8-285EF81C1F76::net8.0::Lab2.Tests.PersonalComputerTests.RepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9E98F1C6-7C44-419C-B3D9-62DEF6B885F3::net8.0::Lab3.Tests.MessageTests.MessageTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

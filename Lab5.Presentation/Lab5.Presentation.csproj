@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab5.Application.Contracts\Lab5.Application.Contracts.csproj" />
+      <ProjectReference Include="..\Lab5.Application\Lab5.Application.csproj" />
+      <ProjectReference Include="..\Lab5.Infrastructure.DataAccess\Lab5.Infrastructure.DataAccess.csproj" />
+      <ProjectReference Include="..\Lab5.Presentation.Abstractions\Lab5.Presentation.Abstractions.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Spectre.Console" Version="0.48.0" />
+    </ItemGroup>
+
+</Project>
